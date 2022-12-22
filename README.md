@@ -13,10 +13,11 @@ https://goodhacker.notion.site/Ideas-Chat-5f51a6c8f31c409f8d2f0db72dc4da7c
 npm install
 
 # Or...
+
 npm i
 ```
 
-## Run localy
+## Run locally
 
 ```
 npm run dev
